@@ -1,5 +1,6 @@
 # ece595_dl
-Codes for Deep Learning Class
+Codes for Deep Learning Class.
+
 Here I am providing codes for the individual class
 The DL class lecture inlcudes:
     1. MLP
