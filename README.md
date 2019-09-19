@@ -1,12 +1,13 @@
-# ECE-595_DL
-Codes for Deep Learning Class.
+Title: Deep Learning (DL)
+Course No: ECE-595_DL
 
-Here I am providing codes for the individual lecture
+Here, I am providing codes for the individual lecture
 
-The DL class lecture inlcudes:
-    1. MLP
-    2. CNN
-    3. RNN
-    4. DBN
-    5. GAN
-    6. RL and so on.
+The DL class will conver the topic including:
+    1. Multilayer perceptron neural network (MLP)
+    2. Convolutional Neural Networks (CNN)
+    3. Recurrent Neural Networks (RNN)
+    4. Deep Belief Networks (DBN)
+    5. Auto-Encoder (AE) and its variants
+    6. Generative adversarial networks (GAN)
+    6. Reinforcement Learning (RL) and so on.
